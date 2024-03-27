@@ -1,0 +1,33 @@
+.vacancies {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 6rem 0;
+}
+
+.vacancies__span {
+    color: var(--red-color);
+    font-size: 0.875rem;
+    font-weight: 500;
+    background-color: var(--red-background);
+    padding: 0.25rem 0.75rem;
+    border-radius: 1rem;
+}
+
+.vacancies__title {
+    color: var(--black-color);
+    font-size: 2.25rem;
+    font-weight: 600;
+    padding: 1.5rem 0;
+}
+
+.vacancies__text {
+    color: var(--text-color);
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+
+.vacancies__img {
+    width: 95%;
+    padding-top: 4rem;
+}

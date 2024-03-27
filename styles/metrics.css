@@ -1,0 +1,33 @@
+.metrics {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 6rem;
+}
+
+.metrics__group {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    /* padding: 0 5rem; */
+    padding: 0 2%;
+    width: 20%;
+}
+
+.metrics__title {
+    color: var(--red-color);
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.metrics__subtitle {
+    color: var(--black-color);
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.metrics__text {
+    color: var(--text-color);
+    font-size: 16px;
+    font-weight: 400;
+    margin-right: 0;
+}

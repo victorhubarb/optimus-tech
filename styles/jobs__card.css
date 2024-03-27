@@ -1,0 +1,44 @@
+.jobs__title {
+    color: var(--black-color);
+    font-weight: 600;
+    font-size: 1.25rem;
+    padding: 4rem 0 2rem 0;
+}
+
+.jobs__section {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.jobs__card {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    width: 50vw;
+    border: 1px solid var(--light-gray);
+    border-radius: 1rem;
+    padding: 1.5rem 1.5rem 1.75rem 1.5rem;
+}
+
+.jobs__card__title {
+    font-size: 1.125rem;
+    font-weight: 500;
+    color: var(--black-color);
+}
+
+.jobs__card__details {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}
+
+.card-details {
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--text-color);
+}
+
+a {
+    text-decoration: none;
+}

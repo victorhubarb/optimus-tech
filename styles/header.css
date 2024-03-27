@@ -1,0 +1,37 @@
+.menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem 0;
+}
+
+.menu__links {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.menu__links--items,
+.menu__buttons--items {
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+.menu__buttons {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.menu__buttons--items {
+    background-color: #fff;
+    padding: 0.8rem 1rem;
+    border-radius: 0.5rem;
+}
+
+.especial--button {
+    color: #fff;
+    background-color: var(--red-color);
+}
