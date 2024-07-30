@@ -1,4 +1,4 @@
-# OptimusTech <a name="readme-top"></a>
+# OptimusTech Careers Page <a name="readme-top"></a>
 ![Static Badge](https://img.shields.io/badge/status-completed-green?style=for-the-badge)
 
 ## Table of Contents 
@@ -12,30 +12,42 @@
 * [Project Developers](#project-developers)
 
 ## Project Description
-Page offering job vacancies for various positions at a technology company. With different sections such as navigation menu, about us, vacancies, employee feedback, and also email for contact.
+The OptimusTech Careers Page is a dedicated recruitment platform designed to attract and inform potential employees about job opportunities within OptimusTech, a technology firm. Crafted with HTML and CSS, this webpage provides a comprehensive view of the company, its culture, and current job openings. The design emphasizes clarity and accessibility, presenting information about the company and detailed listings of available positions in a structured and visually appealing manner.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
 ## Features and Application Demonstration
-- `Feature 1`: The page was not created responsively per se; however, it was developed using REM values, which still makes the page more organized when viewed on smaller devices, as the elements automatically shrink or enlarge accordingly.
-- `Feature 2`: Creation of an input for registration to receive email notifications about available job vacancies if desired.
-- `Feature 3`: Development in sections, separating them in an organized and easily maintainable code manner.
+- **Header with Navigation**: Features the OptimusTech logo on the left, a central navigation menu for easy access to company sections, and a user login/signup button on the right.
+- **About Us Section**: Briefly introduces OptimusTech, highlighting the company's mission, vision, and core values.
+- **Statistics Dashboard**: Displays key company statistics such as completed projects, number of collaborators, and total downloads in a visually engaging horizontal layout.
+- **Job Opportunities Section**: 
+  - **Remote Work Highlight**: Emphasizes the company's commitment to remote work alongside an inspiring workspace image.
+  - **List of Vacancies**: Organized vertically by department, each section includes cards for individual job roles detailing the position title, employment type (e.g., full-time), and salary range.
+    - Examples include positions within the Design department like Product Designer and UX Designer, and several roles in Software Development.
+- **Employee Testimonial**: Features a review from a current employee about the work environment and company culture at OptimusTech.
+- **Subscription Section for Job Alerts**: Allows job seekers to subscribe with their email to receive updates on new job opportunities.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Project Access
-Project requirements:
- - Have your preferred IDE installed on your computer.
 
-Access the project hosted [here](https://optimus-tech-ashy.vercel.app) and have fun:
- - Project hosted on Vercel.
- - Easy implementation, [click](https://optimus-tech-ashy.vercel.app) and enter the project, try it out easily and quickly without needing to download the files to your own computer.
+### Prerequisites
+- **Integrated Development Environment (IDE)**: An IDE such as Visual Studio Code is recommended for local development and customization of the project, though it is not necessary for accessing the hosted version.
 
-Have the code on your computer:
- - Access the project source code [here](https://github.com/victorhubarb/optimus-tech) or download the project [here](https://github.com/victorhubarb/optimus-tech/archive/refs/heads/main.zip). After one of these steps, and also unzip it on your computer in case of download, open the project in your preferred IDE.
+### Online Access
+- **Live Demo**: Experience the OptimusTech Careers Page directly through its hosted version on Vercel:
+  - [Visit OptimusTech](https://optimus-tech-ashy.vercel.app) to explore the website and learn more about the career opportunities available without any setup required.
 
-Clone repository with the following steps:
- 1. Open the terminal
- 2. git clone https://github.com/victorhubarb/optimus-tech.git
- 3. Press ENTER to create your clone
+### Local Setup
+- **Access and Download the Source Code**:
+  - Visit the [OptimusTech GitHub repository](https://github.com/victorhubarb/optimus-tech) to view the source code.
+  - To download the project directly, [click here](https://github.com/victorhubarb/optimus-tech/archive/refs/heads/main.zip), unzip the file after download, and open it in your IDE.
+
+- **Clone the Repository**:
+  ```bash
+  # Open your terminal
+  git clone https://github.com/victorhubarb/optimus-tech.git
+  cd optimus-tech
+  
+  # You are now ready to work on the project locally.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Technologies Used
